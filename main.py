@@ -38,9 +38,11 @@ import os
 
 # Revision 1: cut "protects/instead" padding; "saves" lands faster and
 # dropping the second "wet" lets the closing "itself" carry the turn.
+# Revision 2: "getting" -> "taking" — the coaster volunteers for the
+# ring, which is the whole dull heroism; final word "itself" sharpens.
 LINE = (
     "Coaster: saves your table from a wet ring by sitting under the "
-    "glass and getting the ring itself."
+    "glass and taking the ring itself."
 )
 
 
