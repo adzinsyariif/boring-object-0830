@@ -36,9 +36,11 @@ D) Coaster:
 
 import os
 
+# Revision 1: cut "protects/instead" padding; "saves" lands faster and
+# dropping the second "wet" lets the closing "itself" carry the turn.
 LINE = (
-    "Coaster: protects your table from a wet ring by sitting under the "
-    "glass and getting the wet ring itself instead."
+    "Coaster: saves your table from a wet ring by sitting under the "
+    "glass and getting the ring itself."
 )
 
 
